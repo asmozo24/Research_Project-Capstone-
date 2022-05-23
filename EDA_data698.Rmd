@@ -1,0 +1,108 @@
+---
+title: "EDA_Data698"
+author: "Alexis Mekueko"
+date: '2022-05-15'
+output: html_document
+---
+
+<!-- ```{r setup2, include=FALSE} -->
+<!-- knitr::opts_chunk$set(echo = TRUE) -->
+<!-- ``` -->
+
+
+
+```{r load-packagess, results='hide',warning=FALSE, message=FALSE, echo=FALSE}
+
+#library(tidyverse) #loading all library needed for this assignment
+
+library(knitr)
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(pdftools)
+library(plotly)
+library(rsconnect)
+library(shiny)
+library(shinyWidgets)
+
+library(knitr)
+library(dplyr)
+library(tidyr)
+
+library(stats)
+library(statsr)
+library(GGally)
+library(pdftools)
+library(correlation)
+library(naniar)
+
+library(urca)
+library(tsibble)
+library(tseries)
+library(forecast)
+library(caret)
+set.seed(1332)
+library(plyr)
+library(arules)
+library(arulesViz)
+library(report)
+library(cluster) # to perform different types of hierarchical clustering
+# package functions used: daisy(), diana(), clusplot()
+#install.packages("visdat")
+library(visdat)
+library(plotly)
+library(reshape2)
+library(mlbench)
+library(corrplot)
+library(pROC)
+library(prodlim)
+
+library(DataExplorer)
+library(MASS)
+library(magrittr)
+
+
+
+
+```
+
+
+
+
+# Exploratory Data Analysis
+
+This EDA is for research project (Data698): The Underlying Facts about U.S. demographics before and after Covid19 Pandemic
+
+
+## Top 5 Countries Covid19 Deaths May 2022
+
+Data source: [who.int](https://covid19.who.int/data)
+
+
+```{r , echo=FALSE}
+library(dlookr)
+library(skimr)
+
+#View(covid19_1)
+
+covid19_1 <- read.csv("https://raw.githubusercontent.com/asmozo24/Research_Project-Capstone-/main/WHO-COVID-19-global-table-data1.csv", stringsAsFactors = FALSE)
+
+glimpse(covid19_1)
+
+covid19_1 %>%
+  head(13) 
+skim(covid19_1)
+
+#DataExplorer::create_report(covid19_1)
+
+
+#Dynamic EDA report
+covid19_1 %>%
+  eda_web_report(target = "Deaths_cumulative_total", subtitle = "Top 10 world Covid19 Total Deaths",
+                 output_dir = "./", output_file = "EDA.html", theme = "blue")
+
+
+
+```
+
+

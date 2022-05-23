@@ -1,0 +1,114 @@
+[
+	{
+		"id": "zotero-undefined",
+		"type": "article-journal",
+		"citation-key": "zotero-undefined"
+	},
+	{
+		"id": "CoronavirusHistoryOrigin",
+		"type": "webpage",
+		"abstract": "Coronaviruses are a large family of different viruses and have coexisted with humans for a long time. The leap from animals to humans, however, is new. Learn more about coronaviruses here.",
+		"container-title": "WebMD",
+		"language": "en",
+		"title": "Coronavirus History: Origin and Evolution",
+		"title-short": "Coronavirus History",
+		"URL": "https://www.webmd.com/lung/coronavirus-history",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					1
+				]
+			]
+		},
+		"citation-key": "CoronavirusHistoryOrigin"
+	},
+	{
+		"id": "liuCOVID19FirstDocumented2020",
+		"type": "article-journal",
+		"abstract": "The novel human coronavirus disease COVID-19 has become the fifth documented pandemic since the 1918 flu pandemic. COVID-19 was first reported in Wuhan, China, and subsequently spread worldwide. The coronavirus was officially named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) by the International Committee on Taxonomy of Viruses based on phylogenetic analysis. SARS-CoV-2 is believed to be a spillover of an animal coronavirus and later adapted the ability of human-to-human transmission. Because the virus is highly contagious, it rapidly spreads and continuously evolves in the human population. In this review article, we discuss the basic properties, potential origin, and evolution of the novel human coronavirus. These factors may be critical for studies of pathogenicity, antiviral designs, and vaccine development against the virus.",
+		"container-title": "Biomedical Journal",
+		"DOI": "https://doi.org/10.1016/j.bj.2020.04.007",
+		"ISSN": "2319-4170",
+		"issue": "4",
+		"page": "328-333",
+		"title": "COVID-19: The first documented coronavirus pandemic in history",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S2319417020300445",
+		"volume": "43",
+		"author": [
+			{
+				"family": "Liu",
+				"given": "Yen-Chin"
+			},
+			{
+				"family": "Kuo",
+				"given": "Rei-Lin"
+			},
+			{
+				"family": "Shih",
+				"given": "Shin-Ru"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		},
+		"citation-key": "liuCOVID19FirstDocumented2020"
+	},
+	{
+		"id": "zhangOriginEvolution20192020",
+		"type": "article-journal",
+		"abstract": "To the Editor—The 2019 novel coronavirus disease (2019-nCoV or COVID-19) recently reported from Wuhan (China), which has cases in Thailand, Japan, South Korea, and the United States, has been confirmed as a new coronavirus [1]. The 2019-nCoV has infected several hundred humans and has caused many fatal cases. Determining the origin and evolution of 2019-nCoV is important for the surveillance, drug discovery, and prevention of the epidemic. With more and more reported pathogenic 2019-nCoV isolates, it is necessary to reexamine their origin and diversification patterns.Based on our phylogenomic analysis of the recently released genomic data of 2019-nCoV, we showed that the 2019-nCoV is most closely related to 2 severe acute respiratory syndrome (SARS)-like CoV sequences that were isolated in bats during 2015 to 2017 [2], suggesting that the bats’ CoV and the human 2019-nCoV share a recent common ancestor (Figure 1A). Therefore, the 2019-nCoV can be considered as a SARS-like virus and named SARS-CoV-2. The 2 bat viruses were collected in Zhoushan, Zhejiang Province, China, from 2015 to 2017 [2]. There is speculation that the 2019-nCoV may have originated near Zhoushan or elsewhere. The new coronavirus was first isolated from stallholders who worked at the South China Seafood Market in Wuhan. This market also sells wild animals or mammals, which were likely intermediate hosts of 2019-nCoV, which originated from bat hosts (Figure 1B). It has been speculated that the intermediate hosts (wild mammals) may have been sold to the seafood market in Wuhan.",
+		"container-title": "Clinical Infectious Diseases",
+		"DOI": "10.1093/cid/ciaa112",
+		"ISSN": "1058-4838",
+		"issue": "15",
+		"journalAbbreviation": "Clinical Infectious Diseases",
+		"page": "882-883",
+		"source": "Silverchair",
+		"title": "Origin and Evolution of the 2019 Novel Coronavirus",
+		"URL": "https://doi.org/10.1093/cid/ciaa112",
+		"volume": "71",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "Liangsheng"
+			},
+			{
+				"family": "Shen",
+				"given": "Fu-ming"
+			},
+			{
+				"family": "Chen",
+				"given": "Fei"
+			},
+			{
+				"family": "Lin",
+				"given": "Zhenguo"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					28
+				]
+			]
+		},
+		"citation-key": "zhangOriginEvolution20192020"
+	}
+]

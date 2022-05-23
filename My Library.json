@@ -1,0 +1,1302 @@
+[
+	{
+		"id": "zotero-undefined",
+		"type": "article-journal",
+		"citation-key": "zotero-undefined"
+	},
+	{
+		"id": "CoronavirusHistoryOrigin",
+		"type": "webpage",
+		"abstract": "Coronaviruses are a large family of different viruses and have coexisted with humans for a long time. The leap from animals to humans, however, is new. Learn more about coronaviruses here.",
+		"container-title": "WebMD",
+		"language": "en",
+		"title": "Coronavirus History: Origin and Evolution",
+		"title-short": "Coronavirus History",
+		"URL": "https://www.webmd.com/lung/coronavirus-history",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					1
+				]
+			]
+		},
+		"citation-key": "CoronavirusHistoryOrigin"
+	},
+	{
+		"id": "liuCOVID19FirstDocumented2020",
+		"type": "article-journal",
+		"abstract": "The novel human coronavirus disease COVID-19 has become the fifth documented pandemic since the 1918 flu pandemic. COVID-19 was first reported in Wuhan, China, and subsequently spread worldwide. The coronavirus was officially named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) by the International Committee on Taxonomy of Viruses based on phylogenetic analysis. SARS-CoV-2 is believed to be a spillover of an animal coronavirus and later adapted the ability of human-to-human transmission. Because the virus is highly contagious, it rapidly spreads and continuously evolves in the human population. In this review article, we discuss the basic properties, potential origin, and evolution of the novel human coronavirus. These factors may be critical for studies of pathogenicity, antiviral designs, and vaccine development against the virus.",
+		"container-title": "Biomedical Journal",
+		"DOI": "https://doi.org/10.1016/j.bj.2020.04.007",
+		"ISSN": "2319-4170",
+		"issue": "4",
+		"page": "328-333",
+		"title": "COVID-19: The first documented coronavirus pandemic in history",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S2319417020300445",
+		"volume": "43",
+		"author": [
+			{
+				"family": "Liu",
+				"given": "Yen-Chin"
+			},
+			{
+				"family": "Kuo",
+				"given": "Rei-Lin"
+			},
+			{
+				"family": "Shih",
+				"given": "Shin-Ru"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		},
+		"citation-key": "liuCOVID19FirstDocumented2020"
+	},
+	{
+		"id": "WHOCoronavirusCOVID19",
+		"type": "webpage",
+		"abstract": "World Health Organization Coronavirus disease situation dashboard presents official daily counts of COVID-19 cases and deaths worldwide, along with vaccination rates and other vaccination data, while providing a hub to other resources. Interactive tools, including maps, epidemic curves and other charts and graphics, with downloadable data, allow users to track and explore the latest trends, numbers and statistics at global, regional and country levels.",
+		"language": "en",
+		"title": "WHO Coronavirus (COVID-19) Dashboard",
+		"URL": "https://covid19.who.int",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					5
+				]
+			]
+		},
+		"citation-key": "WHOCoronavirusCOVID19"
+	},
+	{
+		"id": "SARSCoV2Evolution",
+		"type": "webpage",
+		"language": "en",
+		"title": "SARS-CoV-2 Evolution",
+		"URL": "https://www.who.int/news-room/questions-and-answers/item/sars-cov-2-evolution",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					5
+				]
+			]
+		},
+		"citation-key": "SARSCoV2Evolution"
+	},
+	{
+		"id": "DigitalWorld",
+		"type": "webpage",
+		"abstract": "All the latest stats, insights, and trends you need to make sense how the world uses the internet, social media, mobile devices, and ecommerce.",
+		"container-title": "DataReportal – Global Digital Insights",
+		"language": "en-GB",
+		"title": "Digital Around the World",
+		"URL": "https://datareportal.com/global-digital-overview",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					5
+				]
+			]
+		},
+		"citation-key": "DigitalWorld"
+	},
+	{
+		"id": "InternetGrowthStatistics",
+		"type": "webpage",
+		"title": "Internet Growth Statistics 1995 to 2021 - the Global Village Online",
+		"URL": "https://www.internetworldstats.com/emarketing.htm",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					5
+				]
+			]
+		},
+		"citation-key": "InternetGrowthStatistics"
+	},
+	{
+		"id": "tangOriginContinuingEvolution2020",
+		"type": "article-journal",
+		"abstract": "The SARS-CoV-2 epidemic started in late December 2019 in Wuhan, China, and has since impacted a large portion of China and raised major global concern. Herein, we investigated the extent of molecular divergence between SARS-CoV-2 and other related coronaviruses. Although we found only 4% variability in genomic nucleotides between SARS-CoV-2 and a bat SARS-related coronavirus (SARSr-CoV; RaTG13), the difference at neutral sites was 17%, suggesting the divergence between the two viruses is much larger than previously estimated. Our results suggest that the development of new variations in functional sites in the receptor-binding domain (RBD) of the spike seen in SARS-CoV-2 and viruses from pangolin SARSr-CoVs are likely caused by natural selection besides recombination. Population genetic analyses of 103 SARS-CoV-2 genomes indicated that these viruses had two major lineages (designated L and S), that are well defined by two different SNPs that show nearly complete linkage across the viral strains sequenced to date. We found that L lineage was more prevalent than the S lineage within the limited patient samples we examined. The implication of these evolutionary changes on disease etiology remains unclear. These findings strongly underscores the urgent need for further comprehensive studies that combine viral genomic data, with epidemiological studies of coronavirus disease 2019 (COVID-19).",
+		"container-title": "National Science Review",
+		"DOI": "10.1093/nsr/nwaa036",
+		"ISSN": "2095-5138",
+		"issue": "6",
+		"journalAbbreviation": "National Science Review",
+		"page": "1012-1023",
+		"source": "Silverchair",
+		"title": "On the origin and continuing evolution of SARS-CoV-2",
+		"URL": "https://doi.org/10.1093/nsr/nwaa036",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Tang",
+				"given": "Xiaolu"
+			},
+			{
+				"family": "Wu",
+				"given": "Changcheng"
+			},
+			{
+				"family": "Li",
+				"given": "Xiang"
+			},
+			{
+				"family": "Song",
+				"given": "Yuhe"
+			},
+			{
+				"family": "Yao",
+				"given": "Xinmin"
+			},
+			{
+				"family": "Wu",
+				"given": "Xinkai"
+			},
+			{
+				"family": "Duan",
+				"given": "Yuange"
+			},
+			{
+				"family": "Zhang",
+				"given": "Hong"
+			},
+			{
+				"family": "Wang",
+				"given": "Yirong"
+			},
+			{
+				"family": "Qian",
+				"given": "Zhaohui"
+			},
+			{
+				"family": "Cui",
+				"given": "Jie"
+			},
+			{
+				"family": "Lu",
+				"given": "Jian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					6,
+					1
+				]
+			]
+		},
+		"citation-key": "tangOriginContinuingEvolution2020"
+	},
+	{
+		"id": "COVID19DataExplorer",
+		"type": "webpage",
+		"abstract": "Research and data to make progress against the world’s largest problems",
+		"container-title": "Our World in Data",
+		"title": "COVID-19 Data Explorer",
+		"URL": "https://ourworldindata.org/coronavirus-data-explorer",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					5
+				]
+			]
+		},
+		"citation-key": "COVID19DataExplorer"
+	},
+	{
+		"id": "AmazonAMZNRevenue",
+		"type": "webpage",
+		"abstract": "Current and historical revenue charts for Amazon. As of May 2022 Amazon's TTM revenue is of $469.82 B",
+		"language": "en-us",
+		"title": "Amazon (AMZN) - Revenue",
+		"URL": "https://companiesmarketcap.com/amazon/revenue/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					5
+				]
+			]
+		},
+		"citation-key": "AmazonAMZNRevenue"
+	},
+	{
+		"id": "CoronavirusDeathToll",
+		"type": "webpage",
+		"abstract": "Updated total and statistics, graphs and charts tracking the total number of deaths, deaths per day, and death by country from the Novel Coronavirus (2019-nCoV) originating from Wuhan, China",
+		"language": "en",
+		"title": "Coronavirus Death Toll and Trends - Worldometer",
+		"URL": "https://www.worldometers.info/coronavirus/coronavirus-death-toll/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					5
+				]
+			]
+		},
+		"citation-key": "CoronavirusDeathToll"
+	},
+	{
+		"id": "zhangOriginEvolution20192020a",
+		"type": "article-journal",
+		"abstract": "To the Editor—The 2019 novel coronavirus disease (2019-nCoV or COVID-19) recently reported from Wuhan (China), which has cases in Thailand, Japan, South Korea, and the United States, has been confirmed as a new coronavirus [1]. The 2019-nCoV has infected several hundred humans and has caused many fatal cases. Determining the origin and evolution of 2019-nCoV is important for the surveillance, drug discovery, and prevention of the epidemic. With more and more reported pathogenic 2019-nCoV isolates, it is necessary to reexamine their origin and diversification patterns.Based on our phylogenomic analysis of the recently released genomic data of 2019-nCoV, we showed that the 2019-nCoV is most closely related to 2 severe acute respiratory syndrome (SARS)-like CoV sequences that were isolated in bats during 2015 to 2017 [2], suggesting that the bats’ CoV and the human 2019-nCoV share a recent common ancestor (Figure 1A). Therefore, the 2019-nCoV can be considered as a SARS-like virus and named SARS-CoV-2. The 2 bat viruses were collected in Zhoushan, Zhejiang Province, China, from 2015 to 2017 [2]. There is speculation that the 2019-nCoV may have originated near Zhoushan or elsewhere. The new coronavirus was first isolated from stallholders who worked at the South China Seafood Market in Wuhan. This market also sells wild animals or mammals, which were likely intermediate hosts of 2019-nCoV, which originated from bat hosts (Figure 1B). It has been speculated that the intermediate hosts (wild mammals) may have been sold to the seafood market in Wuhan.",
+		"container-title": "Clinical Infectious Diseases",
+		"DOI": "10.1093/cid/ciaa112",
+		"ISSN": "1058-4838",
+		"issue": "15",
+		"journalAbbreviation": "Clinical Infectious Diseases",
+		"page": "882-883",
+		"source": "Silverchair",
+		"title": "Origin and Evolution of the 2019 Novel Coronavirus",
+		"URL": "https://doi.org/10.1093/cid/ciaa112",
+		"volume": "71",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "Liangsheng"
+			},
+			{
+				"family": "Shen",
+				"given": "Fu-ming"
+			},
+			{
+				"family": "Chen",
+				"given": "Fei"
+			},
+			{
+				"family": "Lin",
+				"given": "Zhenguo"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					28
+				]
+			]
+		},
+		"citation-key": "zhangOriginEvolution20192020a"
+	},
+	{
+		"id": "IndicatorMetadataRegistry",
+		"type": "webpage",
+		"language": "en",
+		"title": "Indicator Metadata Registry Details",
+		"URL": "https://www.who.int/data/gho/indicator-metadata-registry/imr-details/65",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					6
+				]
+			]
+		},
+		"citation-key": "IndicatorMetadataRegistry"
+	},
+	{
+		"id": "blagosklonnyCausesAgingDeath2020",
+		"type": "article-journal",
+		"abstract": "COVID-19 is not deadly early in life, but mortality increases exponentially with age, which is the strongest predictor of mortality. Mortality is higher in men than in women, because men age faster, and it is especially high in patients with age-related diseases, such as diabetes and hypertension, because these diseases are manifestations of aging and a measure of biological age. At its deepest level, aging (a program-like continuation of developmental growth) is driven by inappropriately high cellular functioning. The hyperfunction theory of quasi-programmed aging explains why COVID-19 vulnerability (lethality) is an age-dependent syndrome, linking it to other age-related diseases. It also explains inflammaging and immunosenescence, hyperinflammation, hyperthrombosis, and cytokine storms, all of which are associated with COVID-19 vulnerability. Anti-aging interventions, such as rapamycin, may slow aging and age-related diseases, potentially decreasing COVID-19 vulnerability.",
+		"container-title": "Aging (Albany NY)",
+		"DOI": "10.18632/aging.103493",
+		"ISSN": "1945-4589",
+		"issue": "11",
+		"journalAbbreviation": "Aging (Albany NY)",
+		"note": "PMID: 32534452\nPMCID: PMC7346074",
+		"page": "10004-10021",
+		"source": "PubMed Central",
+		"title": "From causes of aging to death from COVID-19",
+		"URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7346074/",
+		"volume": "12",
+		"author": [
+			{
+				"family": "Blagosklonny",
+				"given": "Mikhail V."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					6,
+					12
+				]
+			]
+		},
+		"citation-key": "blagosklonnyCausesAgingDeath2020"
+	},
+	{
+		"id": "aburtoQuantifyingImpactsCOVID192022",
+		"type": "article-journal",
+		"abstract": "Variations in the age patterns and magnitudes of excess deaths, as well as differences in population sizes and age structures, make cross-national comparisons of the cumulative mortality impacts of the COVID-19 pandemic challenging. Life expectancy is a widely used indicator that provides a clear and cross-nationally comparable picture of the population-level impacts of the pandemic on mortality.Life tables by sex were calculated for 29 countries, including most European countries, Chile and the USA, for 2015–2020. Life expectancy at birth and at age 60 years for 2020 were contextualized against recent trends between 2015 and 2019. Using decomposition techniques, we examined which specific age groups contributed to reductions in life expectancy in 2020 and to what extent reductions were attributable to official COVID-19 deaths.Life expectancy at birth declined from 2019 to 2020 in 27 out of 29 countries. Males in the USA and Lithuania experienced the largest losses in life expectancy at birth during 2020 (2.2 and 1.7 years, respectively), but reductions of more than an entire year were documented in 11 countries for males and 8 among females. Reductions were mostly attributable to increased mortality above age 60 years and to official COVID-19 deaths.The COVID-19 pandemic triggered significant mortality increases in 2020 of a magnitude not witnessed since World War II in Western Europe or the breakup of the Soviet Union in Eastern Europe. Females from 15 countries and males from 10 ended up with lower life expectancy at birth in 2020 than in 2015.",
+		"container-title": "International Journal of Epidemiology",
+		"DOI": "10.1093/ije/dyab207",
+		"ISSN": "0300-5771",
+		"issue": "1",
+		"journalAbbreviation": "International Journal of Epidemiology",
+		"page": "63-74",
+		"source": "Silverchair",
+		"title": "Quantifying impacts of the COVID-19 pandemic through life-expectancy losses: a population-level study of 29 countries",
+		"title-short": "Quantifying impacts of the COVID-19 pandemic through life-expectancy losses",
+		"URL": "https://doi.org/10.1093/ije/dyab207",
+		"volume": "51",
+		"author": [
+			{
+				"family": "Aburto",
+				"given": "José Manuel"
+			},
+			{
+				"family": "Schöley",
+				"given": "Jonas"
+			},
+			{
+				"family": "Kashnitsky",
+				"given": "Ilya"
+			},
+			{
+				"family": "Zhang",
+				"given": "Luyin"
+			},
+			{
+				"family": "Rahal",
+				"given": "Charles"
+			},
+			{
+				"family": "Missov",
+				"given": "Trifon I"
+			},
+			{
+				"family": "Mills",
+				"given": "Melinda C"
+			},
+			{
+				"family": "Dowd",
+				"given": "Jennifer B"
+			},
+			{
+				"family": "Kashyap",
+				"given": "Ridhi"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					2,
+					1
+				]
+			]
+		},
+		"citation-key": "aburtoQuantifyingImpactsCOVID192022"
+	},
+	{
+		"id": "LifeExpectancyCP",
+		"type": "webpage",
+		"title": "Life Expectancy for CP, VS, TBI and SCI",
+		"URL": "https://www.lifeexpectancy.org/lifetable.shtml",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					6
+				]
+			]
+		},
+		"citation-key": "LifeExpectancyCP"
+	},
+	{
+		"id": "NVSSLifeExpectancy2022",
+		"type": "webpage",
+		"abstract": "National Center for Health Statistics",
+		"language": "en-us",
+		"title": "NVSS - Life Expectancy",
+		"URL": "https://www.cdc.gov/nchs/nvss/life-expectancy.htm",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					25
+				]
+			]
+		},
+		"citation-key": "NVSSLifeExpectancy2022"
+	},
+	{
+		"id": "roserLifeExpectancy2013",
+		"type": "article-journal",
+		"abstract": "When and why did the average age at which people die increase and how can we make further progress against early death?",
+		"container-title": "Our World in Data",
+		"journalAbbreviation": "Our World in Data",
+		"source": "ourworldindata.org",
+		"title": "Life Expectancy",
+		"URL": "https://ourworldindata.org/life-expectancy",
+		"author": [
+			{
+				"family": "Roser",
+				"given": "Max"
+			},
+			{
+				"family": "Ortiz-Ospina",
+				"given": "Esteban"
+			},
+			{
+				"family": "Ritchie",
+				"given": "Hannah"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					5,
+					23
+				]
+			]
+		},
+		"citation-key": "roserLifeExpectancy2013"
+	},
+	{
+		"id": "mastersChangesLifeExpectancy2022",
+		"type": "report",
+		"abstract": "BACKGROUND Prior studies reported large decreases in US life expectancy during 2020 as a result of the COVID-19 pandemic, disproportionately affecting Hispanic and Black populations and vastly exceeding the average change in life expectancy in other high-income countries. Life expectancy estimates for 2021 have not been reported. This study estimated changes in life expectancy during 2019-2021 in the US population, in three US racial/ethnic groups, and in 19 peer countries.\nMETHODS US and peer country death data for 2019-2021 were obtained from the National Center for Health Statistics, the Human Mortality Database, and overseas statistical agencies. The 19 peer countries included Austria, Belgium, Denmark, England and Wales, Finland, France, Germany, Israel, Italy, Netherlands, New Zealand, Northern Ireland, Norway, Portugal, Scotland, South Korea, Spain, Sweden, and Switzerland. Life expectancy was calculated for 2019 and 2020 and estimated for 2021 using a previously validated modeling method.\nRESULTS US life expectancy decreased from 78.86 years in 2019 to 76.99 years in 2020 and 76.60 years in 2021, a net loss of 2.26 years. In contrast, peer countries averaged a smaller decrease in life expectancy between 2019 and 2020 (0.57 years) and a 0.28-year increase between 2020 and 2021, widening the gap in life expectancy between the United States and peer countries to more than five years. The decrease in US life expectancy was highly racialized: whereas the largest decreases in 2020 occurred among Hispanic and non-Hispanic Black populations, in 2021 only the non-Hispanic White population experienced a decrease in life expectancy.\nDISCUSSION The US mortality experience during 2020 and 2021 was more severe than in peer countries, deepening a US disadvantage in health and survival that has been building for decades. Over the two-year period between 2019 and 2021, US Hispanic and non-Hispanic Black populations experienced the largest losses in life expectancy, reflecting the legacy of systemic racism and inadequacies in the US handling of the pandemic. Reasons for the crossover in racialized outcomes between 2020 and 2021, in which life expectancy decreased only in the non-Hispanic White population, could have multiple explanations.",
+		"language": "en",
+		"note": "DOI: 10.1101/2022.04.05.22273393\ntype: article",
+		"page": "2022.04.05.22273393",
+		"publisher": "medRxiv",
+		"source": "medRxiv",
+		"title": "Changes in Life Expectancy Between 2019 and 2021: United States and 19 Peer Countries",
+		"title-short": "Changes in Life Expectancy Between 2019 and 2021",
+		"URL": "https://www.medrxiv.org/content/10.1101/2022.04.05.22273393v1",
+		"author": [
+			{
+				"family": "Masters",
+				"given": "Ryan K."
+			},
+			{
+				"family": "Aron",
+				"given": "Laudan Y."
+			},
+			{
+				"family": "Woolf",
+				"given": "Steven H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					7
+				]
+			]
+		},
+		"citation-key": "mastersChangesLifeExpectancy2022"
+	},
+	{
+		"id": "HowDoesLife",
+		"type": "post-weblog",
+		"abstract": "Over the last several decades, life expectancy in the U.S. and comparable countries has improved substantially. As medical care improved and more individuals gained access to healthcare, life expectancy has generally increased. Since the 1980s, however, growth in life expectancy at birth in the U.S. has diverged from that of comparable countries. Between 1980 and […]",
+		"container-title": "Peterson-KFF Health System Tracker",
+		"language": "en-US",
+		"title": "How does U.S. life expectancy compare to other countries?",
+		"URL": "https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					6
+				]
+			]
+		},
+		"citation-key": "HowDoesLife"
+	},
+	{
+		"id": "mcneillLifeExpectancyContinued",
+		"type": "webpage",
+		"abstract": "A new study by researchers at University of Colorado Boulder, the Urban Institute and VCU is the first to reveal the drop in U.S. life expectancy between 2019 and 2021.",
+		"container-title": "VCU News",
+		"language": "en-us",
+		"title": "U.S. life expectancy continued to fall in 2021",
+		"URL": "https://news.vcu.edu/article/2022/04/us-life-expectancy-continued-to-fall-in-2021",
+		"author": [
+			{
+				"family": "McNeill",
+				"given": "Brian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					6
+				]
+			]
+		},
+		"citation-key": "mcneillLifeExpectancyContinued"
+	},
+	{
+		"id": "mastersCHANGESLIFEEXPECTANCY2022",
+		"type": "report",
+		"abstract": "BACKGROUND Prior studies reported large decreases in US life expectancy during 2020 as a result of the COVID-19 pandemic, disproportionately affecting Hispanic and Black populations and vastly exceeding the average change in life expectancy in other high-income countries. Life expectancy estimates for 2021 have not been reported. This study estimated changes in life expectancy during 2019-2021 in the US population, in three US racial/ethnic groups, and in 19 peer countries.",
+		"genre": "preprint",
+		"language": "en",
+		"note": "DOI: 10.1101/2022.04.05.22273393",
+		"publisher": "Public and Global Health",
+		"source": "DOI.org (Crossref)",
+		"title": "CHANGES IN LIFE EXPECTANCY BETWEEN 2019 AND 2021: UNITED STATES AND 19 PEER COUNTRIES",
+		"title-short": "CHANGES IN LIFE EXPECTANCY BETWEEN 2019 AND 2021",
+		"URL": "http://medrxiv.org/lookup/doi/10.1101/2022.04.05.22273393",
+		"author": [
+			{
+				"family": "Masters",
+				"given": "Ryan K."
+			},
+			{
+				"family": "Aron",
+				"given": "Laudan Y."
+			},
+			{
+				"family": "Woolf",
+				"given": "Steven H."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					4,
+					7
+				]
+			]
+		},
+		"citation-key": "mastersCHANGESLIFEEXPECTANCY2022"
+	},
+	{
+		"id": "sassonAgeCOVID19Mortality2021a",
+		"type": "article-journal",
+		"abstract": "BACKGROUND Demographers have emphasized the importance of age in explaining the spread of COVID-19 and its impact on mortality. However, the relationship between COVID-19 mortality and age should be contextualized in relation to other causes of death. OBJECTIVE To compare the age pattern of COVID-19 mortality with other causes of death and across countries, and to use these regularities to impute age-specific death counts in countries with limited data. METHODS The COVID-19 mortality doubling time in a Gompertz context was compared with 65 major causes of death using US vital statistics. COVID-19 fatality doubling time was similarly compared across 27 countries and used for estimating death counts by age in Israel as a case in point. RESULTS First, COVID-19 mortality increases exponentially with age at a Gompertz rate near the median of aging-related causes of death, as well as pneumonia and influenza. Second, COVID-19 mortality levels are 2.8 to 8.2 times higher than pneumonia and influenza across the adult age range. Third, the relationship between both COVID-19 mortality and fatality and age varies considerably across countries. CONCLUSIONS The increase in COVID-19 mortality with age resembles the population rate of aging. Country differences in the age pattern of COVID-19 mortality and fatality may point to differences in underlying population health, standards of clinical care, or data quality. CONTRIBUTION This study underscores the need to contextualize the age pattern of COVID-19 mortality in relation to other causes of death. Furthermore, it demonstrates how to estimate age-specific COVID-19 deaths in countries with limited data availability.",
+		"container-title": "Demographic Research",
+		"ISSN": "1435-9871",
+		"note": "publisher: Max-Planck-Gesellschaft zur Foerderung der Wissenschaften",
+		"page": "379-396",
+		"source": "JSTOR",
+		"title": "Age and COVID-19 mortality: A comparison of Gompertz doubling time across countries and causes of death",
+		"title-short": "Age and COVID-19 mortality",
+		"URL": "https://www.jstor.org/stable/27032918",
+		"volume": "44",
+		"author": [
+			{
+				"family": "Sasson",
+				"given": "Isaac"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		},
+		"citation-key": "sassonAgeCOVID19Mortality2021a"
+	},
+	{
+		"id": "50StateAgeMajority2015",
+		"type": "post-weblog",
+		"abstract": "Visit the post for more.",
+		"container-title": "SOL Reform",
+		"language": "en-US",
+		"title": "50-State Age of Majority v. Age of Consent",
+		"URL": "http://sol-reform.com/50-state-age-of-majority-v-age-of-consent/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					2,
+					8
+				]
+			]
+		},
+		"citation-key": "50StateAgeMajority2015"
+	},
+	{
+		"id": "AgeMajorityState",
+		"type": "webpage",
+		"abstract": "The age of majority is when you legally become an adult. For UTMA accounts, many states set a different age of majority.",
+		"container-title": "Policygenius",
+		"language": "English",
+		"title": "Age of Majority by State in 2022",
+		"URL": "https://www.policygenius.com/estate-planning/age-of-majority-by-state/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					12
+				]
+			]
+		},
+		"citation-key": "AgeMajorityState"
+	},
+	{
+		"id": "CRM",
+		"type": "webpage",
+		"title": "CRM",
+		"URL": "https://crm.internalcheapflights.com/thank-you?ids=aWQ9MTA2JnJlaWQ9MjAxOTUw",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					12
+				]
+			]
+		},
+		"citation-key": "CRM"
+	},
+	{
+		"id": "bauerInternationalComparisonAge2021",
+		"type": "article-journal",
+		"abstract": "The number of reported coronavirus disease (COVID-19) deaths per 100,000 persons observed so far in 2020 is described in 15 European countries and the USA as dependent on age groups and sex. It is compared with the corresponding historic all-cause mortality per year depending on age and sex observed in these countries. Some common features exist although substantial differences in age and sex dependency of COVID-19 mortality were noted between countries. An exponential increase with age is a good model to describe and analyze both COVID-19 and all-cause mortality above 40 years old, where almost all COVID-19 deaths occur. Moreover, age dependency is stronger for COVID-19 mortality than for all-cause mortality, and males have an excess risk compared with women, which is less pronounced in the higher age groups. Additionally, concerning calendar time, differences in the age and sex dependency between countries were noted with the common tendency that male excess risk for COVID-19 mortality was smaller in the second half of the year.",
+		"container-title": "Scientific Reports",
+		"DOI": "10.1038/s41598-021-97711-8",
+		"ISSN": "2045-2322",
+		"issue": "1",
+		"journalAbbreviation": "Sci Rep",
+		"language": "en",
+		"note": "number: 1\npublisher: Nature Publishing Group",
+		"page": "19143",
+		"source": "www.nature.com",
+		"title": "An international comparison of age and sex dependency of COVID-19 deaths in 2020: a descriptive analysis",
+		"title-short": "An international comparison of age and sex dependency of COVID-19 deaths in 2020",
+		"URL": "https://www.nature.com/articles/s41598-021-97711-8",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Bauer",
+				"given": "Peter"
+			},
+			{
+				"family": "Brugger",
+				"given": "Jonas"
+			},
+			{
+				"family": "König",
+				"given": "Franz"
+			},
+			{
+				"family": "Posch",
+				"given": "Martin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					9,
+					27
+				]
+			]
+		},
+		"citation-key": "bauerInternationalComparisonAge2021"
+	},
+	{
+		"id": "COVID19DeathsAgea",
+		"type": "webpage",
+		"abstract": "Between the beginning of January 2020 and April 27, 2022, of the 993,966 deaths caused by COVID-19 in the United States, around 254,499 had occurred among those aged 85 years and older.",
+		"container-title": "Statista",
+		"language": "en",
+		"title": "COVID-19 deaths by age U.S. 2022",
+		"URL": "https://www.statista.com/statistics/1191568/reported-deaths-from-covid-by-age-us/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					12
+				]
+			]
+		},
+		"citation-key": "COVID19DeathsAgea"
+	},
+	{
+		"id": "goldsteinDemographicPerspectivesMortality2020",
+		"type": "article-journal",
+		"container-title": "Proceedings of the National Academy of Sciences",
+		"DOI": "10.1073/pnas.2006392117",
+		"issue": "36",
+		"note": "publisher: Proceedings of the National Academy of Sciences",
+		"page": "22035-22041",
+		"source": "pnas.org (Atypon)",
+		"title": "Demographic perspectives on the mortality of COVID-19 and other epidemics",
+		"URL": "https://www.pnas.org/doi/10.1073/pnas.2006392117",
+		"volume": "117",
+		"author": [
+			{
+				"family": "Goldstein",
+				"given": "Joshua R."
+			},
+			{
+				"family": "Lee",
+				"given": "Ronald D."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					8
+				]
+			]
+		},
+		"citation-key": "goldsteinDemographicPerspectivesMortality2020"
+	},
+	{
+		"id": "timesCoronavirusLatestMap2020",
+		"type": "article-newspaper",
+		"abstract": "Track Covid-19 in your area, and get the latest state and county data on cases, deaths, hospitalizations, tests and vaccinations.",
+		"container-title": "The New York Times",
+		"ISSN": "0362-4331",
+		"language": "en-US",
+		"section": "U.S.",
+		"source": "NYTimes.com",
+		"title": "Coronavirus in the U.S.: Latest Map and Case Count",
+		"title-short": "Coronavirus in the U.S.",
+		"URL": "https://www.nytimes.com/interactive/2021/us/covid-cases.html",
+		"author": [
+			{
+				"family": "Times",
+				"given": "The New York"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					3,
+					3
+				]
+			]
+		},
+		"citation-key": "timesCoronavirusLatestMap2020"
+	},
+	{
+		"id": "cdcCOVIDDataTracker2020",
+		"type": "webpage",
+		"abstract": "CDC’s home for COVID-19 data. Visualizations, graphs, and data in one easy-to-use website.",
+		"container-title": "Centers for Disease Control and Prevention",
+		"language": "en",
+		"title": "COVID Data Tracker",
+		"URL": "https://covid.cdc.gov/covid-data-tracker",
+		"author": [
+			{
+				"family": "CDC",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					3,
+					28
+				]
+			]
+		},
+		"citation-key": "cdcCOVIDDataTracker2020"
+	},
+	{
+		"id": "kowalWhoMostStressed2020",
+		"type": "article-journal",
+		"abstract": "Background To limit the rapid spread of COVID-19, countries have asked their citizens to stay at home. As a result, demographic and cultural factors related to home life have become especially relevant to predict population well-being during isolation. This pre-registered worldwide study analyses the relationship between the number of adults and children in a household, marital status, age, gender, education level, COVID-19 severity, individualism–collectivism, and perceived stress. Methods We used the COVIDiSTRESS Global Survey data of 53,524 online participants from 26 countries and areas. The data were collected between 30 March and 6 April 2020. Results Higher levels of stress were associated with younger age, being a woman, lower level of education, being single, staying with more children, and living in a country or area with a more severe COVID-19 situation. Conclusions The COVID-19 pandemic revealed that certain people may be more susceptible to experience elevated levels of stress. Our findings highlight the need for public health to be attentive to both the physical and the psychological well-being of these groups.",
+		"container-title": "Applied Psychology: Health and Well-Being",
+		"DOI": "10.1111/aphw.12234",
+		"ISSN": "1758-0854",
+		"issue": "4",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/aphw.12234",
+		"page": "946-966",
+		"source": "Wiley Online Library",
+		"title": "Who is the Most Stressed During the COVID-19 Pandemic? Data From 26 Countries and Areas",
+		"title-short": "Who is the Most Stressed During the COVID-19 Pandemic?",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/aphw.12234",
+		"volume": "12",
+		"author": [
+			{
+				"family": "Kowal",
+				"given": "Marta"
+			},
+			{
+				"family": "Coll-Martín",
+				"given": "Tao"
+			},
+			{
+				"family": "Ikizer",
+				"given": "Gözde"
+			},
+			{
+				"family": "Rasmussen",
+				"given": "Jesper"
+			},
+			{
+				"family": "Eichel",
+				"given": "Kristina"
+			},
+			{
+				"family": "Studzińska",
+				"given": "Anna"
+			},
+			{
+				"family": "Koszałkowska",
+				"given": "Karolina"
+			},
+			{
+				"family": "Karwowski",
+				"given": "Maciej"
+			},
+			{
+				"family": "Najmussaqib",
+				"given": "Arooj"
+			},
+			{
+				"family": "Pankowski",
+				"given": "Daniel"
+			},
+			{
+				"family": "Lieberoth",
+				"given": "Andreas"
+			},
+			{
+				"family": "Ahmed",
+				"given": "Oli"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		},
+		"citation-key": "kowalWhoMostStressed2020"
+	},
+	{
+		"id": "maitiMaritalDistressCOVID19",
+		"type": "article-journal",
+		"abstract": "Marriage is a universally accepted institution despite the diversity of cultures, religions, and geographical variations. Any crisis that affects mankind invariably can have direct and indirect effects on marriage across the globe. The ongoing COVID-19 pandemic seems no different and its effect on marriages is palpable with anticipation of complications related to marital problems even after the pandemic ends. On the other hand, a strong marriage can be major psychological support especially during these times of uncertainty and can contribute to the emotional well-being of both individuals as well as the family. Hence, this brief narrative explores the vulnerabilities of couples, factors contributing to marital distress, and possible solutions in the context of the COVID-19 pandemic with an Indian perspective.",
+		"language": "en",
+		"page": "9",
+		"source": "Zotero",
+		"title": "Marital distress during COVID-19 pandemic and lockdown: a brief narrative",
+		"author": [
+			{
+				"family": "Maiti",
+				"given": "Dr Tanay"
+			},
+			{
+				"family": "Singh",
+				"given": "Dr Sheba"
+			},
+			{
+				"family": "Innamuri",
+				"given": "Dr Raviteja"
+			},
+			{
+				"family": "Hasija",
+				"given": "Mrs Aastha Dhingra"
+			}
+		],
+		"citation-key": "maitiMaritalDistressCOVID19"
+	},
+	{
+		"id": "manningMarriageDivorceDecline2021",
+		"type": "article-journal",
+		"abstract": "The decline in marriage and divorce was evident prior to the coronavirus disease 2019 pandemic, but it remains unknown whether these patterns have persisted during the pandemic. The authors compared monthly marriage and divorce counts for two years prior to the pandemic (2018 and 2019) and during the pandemic for the five states that published monthly vital statistics data for 2020 (Arizona, Florida, Missouri, New Hampshire, and Oregon). All five states witnessed initial declines in marriage. Counts of marriages in Arizona and New Hampshire rebounded. In contrast, marriage shortfalls occurred in Florida, Missouri, and Oregon. In the early pandemic months, divorces initially declined in all five states and rebounded in Arizona. In the remaining four states, divorce shortfalls have occurred. As more data become available, it will be important to acknowledge these state variations in response to the pandemic.",
+		"container-title": "Socius",
+		"DOI": "10.1177/23780231211006976",
+		"ISSN": "2378-0231",
+		"journalAbbreviation": "Socius",
+		"language": "en",
+		"note": "publisher: SAGE Publications",
+		"page": "23780231211006976",
+		"source": "SAGE Journals",
+		"title": "Marriage and Divorce Decline during the COVID-19 Pandemic: A Case Study of Five States",
+		"title-short": "Marriage and Divorce Decline during the COVID-19 Pandemic",
+		"URL": "https://doi.org/10.1177/23780231211006976",
+		"volume": "7",
+		"author": [
+			{
+				"family": "Manning",
+				"given": "Wendy D."
+			},
+			{
+				"family": "Payne",
+				"given": "Krista K."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					1,
+					1
+				]
+			]
+		},
+		"citation-key": "manningMarriageDivorceDecline2021"
+	},
+	{
+		"id": "DivorceRateGeographic",
+		"type": "webpage",
+		"abstract": "research brief on Divorce Rate in the U.S.: Geographic Variation, 2019",
+		"container-title": "Bowling Green State University",
+		"language": "en",
+		"title": "Divorce Rate in the U.S.: Geographic Variation, 2019",
+		"title-short": "Divorce Rate in the U.S.",
+		"URL": "https://www.bgsu.edu/ncfmr/resources/data/family-profiles/reynolds-divorce-rate-geographic-variation-2019-fp-20-25.html",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					13
+				]
+			]
+		},
+		"citation-key": "DivorceRateGeographic"
+	},
+	{
+		"id": "wagnerDeclineMarriageAssociated2020",
+		"type": "article-journal",
+		"abstract": "In the social upheaval arising from the coronavirus disease 2019 (COVID-19) pandemic, we do not yet know how union formation, particularly marriage, has been affected. Using administration records—marriage certificates and applications—gathered from settings representing a variety of COVID-19 experiences in the United States, the authors compare counts of recorded marriages in 2020 against those from the same period in 2019. There is a dramatic decrease in year-to-date cumulative marriages in 2020 compared with 2019 in each case. Similar patterns are observed for the Seattle metropolitan area when analyzing the cumulative number of marriage applications, a leading indicator of marriages in the near future. Year-to-date declines in marriage are unlikely to be due solely to closure of government agencies that administer marriage certification or reporting delays. Together, these findings suggest that marriage has declined during the COVID-19 outbreak and may continue to do so, at least in the short term.",
+		"container-title": "Socius",
+		"DOI": "10.1177/2378023120980328",
+		"ISSN": "2378-0231",
+		"journalAbbreviation": "Socius",
+		"language": "en",
+		"note": "publisher: SAGE Publications",
+		"page": "2378023120980328",
+		"source": "SAGE Journals",
+		"title": "Decline in Marriage Associated with the COVID-19 Pandemic in the United States",
+		"URL": "https://doi.org/10.1177/2378023120980328",
+		"volume": "6",
+		"author": [
+			{
+				"family": "Wagner",
+				"given": "Brandon G."
+			},
+			{
+				"family": "Choi",
+				"given": "Kate H."
+			},
+			{
+				"family": "Cohen",
+				"given": "Philip N."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					13
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					1
+				]
+			]
+		},
+		"citation-key": "wagnerDeclineMarriageAssociated2020"
+	},
+	{
+		"id": "zotero-undefineda",
+		"type": "webpage",
+		"URL": "https://covid19.who.int/data",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					15
+				]
+			]
+		},
+		"citation-key": "zotero-undefineda"
+	},
+	{
+		"id": "oactLifeTables",
+		"type": "webpage",
+		"language": "eng",
+		"title": "Life Tables",
+		"URL": "https://www.ssa.gov/oact/NOTES/as120/LifeTables_Body.html",
+		"author": [
+			{
+				"family": "OACT",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					18
+				]
+			]
+		},
+		"citation-key": "oactLifeTables"
+	},
+	{
+		"id": "NationalVitalStatistics",
+		"type": "article-journal",
+		"abstract": "Objectives—This report presents complete period life tables for each of the 50 states and the District of Columbia (D.C.) by sex based on age-specific death rates in 2019.",
+		"language": "en",
+		"page": "18",
+		"source": "Zotero",
+		"title": "National Vital Statistics Reports Volume 70, Number 18 February 10, 2022",
+		"citation-key": "NationalVitalStatistics"
+	},
+	{
+		"id": "felicitieLifeTablesUnited",
+		"type": "report",
+		"language": "eng",
+		"title": "Life Tables for the United States Social Security Area 1900-2100",
+		"title-short": "Table 1",
+		"URL": "https://www.ssa.gov/oact/NOTES/as120/LifeTables_Tbl_1.html#wp1229200",
+		"author": [
+			{
+				"family": "Felicitie",
+				"given": "Bell"
+			},
+			{
+				"family": "Michael",
+				"given": "Miller"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					21
+				]
+			]
+		},
+		"citation-key": "felicitieLifeTablesUnited"
+	},
+	{
+		"id": "ChildstatsGovAmerica",
+		"type": "webpage",
+		"title": "Childstats.gov - America's Children: Key National Indicators of Well-Being, 2021 - Appendix B: Data Source Descriptions",
+		"URL": "https://www.childstats.gov/americaschildren/surveys2.asp#ahs",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					22
+				]
+			]
+		},
+		"citation-key": "ChildstatsGovAmerica"
+	},
+	{
+		"id": "COVID19WorstPandemic",
+		"type": "webpage",
+		"abstract": "The COVID-19 pandemic just became the worst pandemic in US history, surpassing the death toll from the 1918 Spanish flu pandemic.",
+		"container-title": "Health",
+		"language": "en",
+		"note": "section: Health",
+		"title": "COVID-19 Is the Worst Pandemic in US History, Now That Deaths Have Surpassed the 1918 Spanish Flu",
+		"URL": "https://www.health.com/condition/infectious-diseases/coronavirus/worst-pandemic-us-history-covid-spanish-flu",
+		"accessed": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					22
+				]
+			]
+		},
+		"citation-key": "COVID19WorstPandemic"
+	}
+]

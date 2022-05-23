@@ -1,0 +1,201 @@
+---
+title: |
+  <br><center>Data698-Research Project Proposal</center><br />
+  <br>
+  <br>
+  \vspace{0.1cm}<center>**\LARGE The Underlying Facts about U.S. demographics before and after Covid19 Pandemic**</center>
+  </br>
+author: '**Alexis Mekueko**'
+date: "02/20/2022"
+output:
+  html_document:
+    df_print: paged
+  word_document: default
+  pdf_document: default
+subtitle: '*Analyzing the U.S. demographic stats for household number of children,
+  marital status and life expectancy in contrast to other countries*'
+bibliography: ref.bib
+biblio-style: apalike
+link-citations: yes
+linkcolor: blue
+csl: nature.csl
+---
+
+<!-- \newpage -->
+
+
+<!-- <style type="text/css"> -->
+<!--   body{ -->
+<!--   font-size: 12pt; -->
+<!-- } -->
+<!-- </style> -->
+
+<!-- <style type="text/css"> -->
+
+<!-- body{ /* Normal  */ -->
+<!--       font-size: 12px; -->
+<!--   } -->
+<!-- td {  /* Table  */ -->
+<!--   font-size: 8px; -->
+<!-- } -->
+<!-- h1.title { -->
+<!--   font-size: 38px; -->
+<!--   color: DarkBlue; -->
+<!-- } -->
+<!-- h1 { /* Header 1 */ -->
+<!--   font-size: 28px; -->
+<!--   color: DarkBlue; -->
+<!-- } -->
+<!-- h2 { /* Header 2 */ -->
+<!--     font-size: 22px; -->
+<!--   color: DarkBlue; -->
+<!-- } -->
+<!-- h3 { /* Header 3 */ -->
+<!--   font-size: 18px; -->
+<!--   font-family: "Times New Roman", Times, serif; -->
+<!--   color: DarkBlue; -->
+<!-- } -->
+<!-- code.r{ /* Code block */ -->
+<!--     font-size: 12px; -->
+<!-- } -->
+<!-- pre { /* Code block - determines code spacing between lines */ -->
+<!--     font-size: 14px; -->
+<!-- } -->
+<!-- </style> -->
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r load-packages, results='hide',warning=FALSE, message=FALSE, echo=FALSE}
+
+#library(tidyverse) #loading all library needed for this assignment
+
+#library(knitr)
+#library(dplyr)
+#library(tidyr)
+#library(ggplot2)
+#library(pdftools)
+#library(plotly)
+#library(rsconnect)
+#library(shiny)
+#library(shinyWidgets)
+
+#set.seed(34332)
+
+#install.packages("bookdown")
+```
+
+<p style="font-family: times, serif; font-size:11pt; font-style:normal">
+The City University of New York School of Professional Studies (CUNY-SPS)\
+Analytics Master's Research Project (DATA 698)
+\
+\
+Github Link --> https://github.com/asmozo24/DATA698_Research_Project_Proposal \
+Web link    --> https://rpubs.com/amekueko/868277
+
+</p> 
+
+<!-- \begin{equation} -->
+<!-- \label{eq-abc} -->
+<!-- a+b=c -->
+<!-- \end{equation} -->
+
+<!-- also another way..$a+b=c$ -->
+<!-- to refer to the above equation in text, you can write: see equation \ref{eq-abc}. If you use the autoref command, it will automatically specify what kind of Latex object you are referring to, for example: see \autoref{eq-abc} -->
+
+## Project Description
+
+### Background
+
+The Covid19 pandemic has impacted many families in the U.S. for more than 03 years[@David_2022]. There are nearly 933,485 deaths due to Covid19 in 2022[@New_York_Times_2022]. The U.S. are not alone in this pandemic. There is a world record of 5.88 millions of covid19 deaths in about 211 countries [@Our_World_in_Data_2022]. These Covid19 deaths bring tears to many families. This world wide casualty did not affected the all countries the same way. The number of Covid19 deaths per country shows  some discrepancy. Some countries are more affected with more death than others. U.S. is one of the countries with more significant casualty. In response to this pandemic, healthcare measures were taken to stop the spray of the disease and to alleviate the economy. Among these healthcare measures is the Working From Home (WFH). WFH came in as a solution to allow the economy to recover while keeping the workforce active. Therefore, more workers were forced to stay home. The likelihood of more workers staying at home, working from home has potential to influence the demography compared to a situation before Covid19 pandemic. Taking into account the fact that a fulltime worker used to spend 08 to 12 hours on the job site and now spends the same amount of time with WFH condition, and considering the world record of Covid19 deaths, the living environment has changed for many families in the U.S. and worldwide. This change has ineluctably some consequences on the population demographics (number of children, marital status, life expectancy etc.). Thus, the purpose of conducting this research project is to investigate this change in the population demographics.
+
+
+### Research Questions
+
+What is the number of children per household before and after Covid19 in the U.S.?
+Does the number of children per household increase or decrease during Covid19 in the U.S. ?
+Are there more divorces during Covid19 or before in the U.S.?
+How is the number of children per household in the U.S. compared to other countries?
+Do Women live longer than Men in The U.S.?
+Do Women in the U.S. live longer than women in other countries?
+Do Men in the U.S. live longer than men in other countries?     
+
+
+### Aims
+
+The Covid19 pandemic has negatively impacted the social environment worldwide. Many families in the U.S. are not living like before the pandemic with the WFH condition. Taking a deep dive into the population demographics data, we want to know if there is a change in the family living situation. We want to analyze this data to see the influence of the pandemic on the population nationwide. We want to look at the data differently, not just the number of deaths but others factors that contribute in the population demographics such as the number of children per household, marital status and life expectancy. 
+
++ To analyze the U.S. population demographics with the focus on the number of children per household, marital status and life expectancy before and after Covid19 pandemic.
++ To contrast the U.S. population demographics (the number of children per household, marital status and life expectancy) with other countries before and after Covid19 pandemic.
+
+
+### Methodology
+
+We anticipate the success of the project will reveal meaningful information. There will be no fieldwork. Everything will be done remotely. We will follow the layout below:
+
++ Abstract/Executive Summary
++ Literature Review/Research Conducted
++ Theory and Hypotheses (if applicable)
++ Data and Methods
++ Results
++ Discussion
++ Conclusion 
+
+
+### Data Sources
+
+This project relies heavily on population demographics data. We will explore many official or well-known sources included but not limited: 
+
++ the United Nations statistics Division data[@link4](https://unstats.un.org/unsd/demographic-social/products/dyb/dybcensusdata.cshtml)
++ the United States Census Bureau[@link5](https://www.census.gov/data/datasets.html)
++ Our World in Data[link](https://ourworldindata.org/explorers/coronavirus-data-explorer)
++ worldometers[@link6](https://www.worldometers.info/demographics/world-demographics/) 
+
+    
+### Challenges
+
+There are few challenges in this project to be overcome:
+
+1. data source: In this project, we will not be sampling a population. We will use collected data available online and often the format of the data source is  not easy to render.
+2. Finding a good statistical model that will help answering the research questions can be difficult.
+3. Interpreting Results: This is going to be crucial. How to present the result, which format will be suitable, what is the audience? 
+
+
+### Expected Outcomes
+
+-This research project is important because there is a potential to discover meaningful information about family that can help authorities to anticipate on future social issues. We want to tell  authorities that Covid19 is not all about deaths. We want to show that there maybe some underlying facts on the population demographics. By looking at the charts on other demographic factors, policy makers would have facts to rely on. The outcomes of this project can lead to new social policies which will ultimately contribute to a better living situation for many families.
+
+<!-- This is an [inline link](/https://www.cdc.gov/museum/timeline/covid19.html), and here's [one with a title](https://fsf.org "click here for a good time!"). -->
+
+
+### Deliverable Time
+
+May 22, 2022
+
+
+<!-- https://www.overleaf.com/learn/latex/Bibliography_management_with_bibtex -->
+<!-- https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/ -->
+<!-- https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf -->
+<!-- https://stirlingcodingclub.github.io/Manuscripts_in_Rmarkdown/Rmarkdown_notes.html -->
+<!-- https://intro2r.com/r-markdown-anatomy.html -->
+<!-- https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html -->
+<!-- https://www.youtube.com/watch?v=DWxDWyqWnX0 -->
+<!-- http://frederikaust.com/papaja_man/writing.html -->
+<!-- https://www.youtube.com/watch?v=dbljY7jxrSA -->
+
+
+### References
+
+<!-- 1. David J. Sencer. 2022, "CDC Museum COVID-19 Timeline", Centers for Disease Control and Prevention Museum: In Association with the Smithsonian Institution, <https://www.cdc.gov/museum/timeline/covid19.html> -->
+<!-- 2. The New York Times, "Coronavirus in the U.S.: Latest Map and Case Count" , Feb. 20, 2022, <https://www.nytimes.com/interactive/2021/us/covid-cases.html> -->
+
+<!-- 3. Our World in Data, "Daily new confirmed COVID-19 deaths per million people", Feb. 20, 2022, <https://ourworldindata.org/explorers/coronavirus-data-explorer> -->
+
+<!-- 4. UNDATA, "Population Censuses' Datasets (1995 - Present)", <https://unstats.un.org/unsd/demographic-social/products/dyb/dybcensusdata.cshtml>, <http://data.un.org/Data.aspx?d=GenderStat&f=inID:37&c=1,2,3,4,5,6&s=crEngName:asc,sgvEngName:asc,timeEngName:desc&v=1#GenderStat>, <https://www.census.gov/quickfacts/fact/table/US/PST045221> -->
+
+<!-- 5. the United States Census Bureau[5], <https://www.census.gov/data/datasets.html>, <https://www.census.gov/topics/population.html> -->
+
+<!-- 6. Worldometer, "World Demographics", <https://www.worldometers.info/demographics/world-demographics/> -->
+
